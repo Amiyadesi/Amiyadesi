@@ -1,28 +1,28 @@
-# Hi, I'm Amiya_desi
+# Hi, I’m Amiya_desi
 
-I make games, tools, websites, and notes.
+I’m an independent developer focused on indie games, while also building websites, tools, and public notes
 
-> 我做游戏、工具、网站和文章。喜欢 meta、解谜、战斗，也喜欢互联网边角里的东西。
-
-I like meta games: systems that remember, bend their own rules, or turn the player's actions into part of the story. Godot is my current playground, not my whole identity.
+> 我做游戏、工具、网站和文章；喜欢时间机制、多窗口交互、meta、解谜、战斗，也喜欢互联网边角里的东西
 
 ## What I make
 
-- 🎮 Experimental Godot games — meta, puzzle, action
+- 🎮 Godot games and Game Jam experiments
 - 🛠 Open-source tools built from real problems
-- 🌐 Personal sites, writing, and small internet communities
+- 🌐 Personal sites, web tools, self-hosting notes, and creative workflows
 
 ## Selected work
 
-- [Delay Trace](https://amiya-desi.itch.io/delaytrace) — delayed causality, previous runs, and pursuit
-- [Multi-window Traverse Demo](https://github.com/Amiyadesi/muti_window_traverse_demo) — a Godot 4 toolkit for multi-window traversal and custom window behavior
-- [GeoScore](https://github.com/Amiyadesi/geoscore) — evidence-first bilingual SEO/GEO audits
-- [Small Forums List](https://github.com/Amiyadesi/small-forums-list) — a map of small online communities
+- [DelayTrace](https://amiya-desi.itch.io/delaytrace) — a Godot game about time delay, recorded actions, and replay
+- [TimeRewindLinker](https://amiya-desi.itch.io/time-rewind-linker) — a puzzle experiment with time rewind and echoes of past actions
+- [梦醒边界](https://amiya-desi.itch.io/wake-up-at-the-border) — a Godot game mixing puzzles, dialogue, and combat, second prize in the third GodotHub themed Jam track
+- [Mio’s Window Wanderer](https://amiya-desi.itch.io/thatgamejam) — a multi-window narrative prototype I helped make
+- [GeoScore](https://geo.sayori.org/) — evidence-first SEO and GEO audits for public web pages
+- [Enhanced Save System](https://github.com/Amiyadesi/enhance_save_system) — a modular Godot save plugin with GDScript and C# implementations
 
 ## Current direction
 
-Making unusual mechanics easier to understand and play: better first minutes, level design, game feel, and honest iteration.
+Complete and publish my first Steam game, then keep turning small experiments into understandable, playable works
 
 ## Links
 
-[Website](https://sayori.org) · [Blog](https://blog.sayori.org) · [itch.io](https://amiya-desi.itch.io) · [Bilibili](https://space.bilibili.com/3546919890585725)
+[Website](https://sayori.org/) · [About](https://sayori.org/about/) · [Blog](https://blog.sayori.org/) · [GitHub](https://github.com/Amiyadesi) · [itch.io](https://amiya-desi.itch.io/) · [Bilibili](https://space.bilibili.com/3546919890585725) · [YouTube](https://www.youtube.com/@Amiya_desi)
